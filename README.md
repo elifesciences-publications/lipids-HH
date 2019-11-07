@@ -1,3 +1,6 @@
+### This code is associated with the paper from Kinnebrew et al., "Cholesterol accessibility at the ciliary membrane controls hedgehog signaling". eLife, 2019. http://dx.doi.org/10.7554/eLife.50051
+
+
 1. Download the MATLAB toolbox from the Bio-Formats downloads page. Unzip bfmatlab.zip and add the unzipped bfmatlab folder to your MATLAB path.
 2. Create a working directory to store all four MATLAB files (snapShots.m, quant_cilia_mask_for_field.m, get_max_z_projections_github.m, and ciliaMaskFinder_github.m), the bfmatlab folder and your image file (in the Leica image file (.lif) format).
 3. Open get_max_z_projections_github.m and set the path to the bfmatlab folder.
